@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AjGdxF5RpVUVpe+Lsznj2WKL5rIOKvJnwrE/zG91Tw7m++29NhZpLJ5264u6Y+iqVUdq2+6JyoqkNRlrmGeX/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marc\\Downloads\\Xamarin_Forms___MediaElement\\MediaElementDemos.iOS\\MediaElementDemos.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marc\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Marc\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}
